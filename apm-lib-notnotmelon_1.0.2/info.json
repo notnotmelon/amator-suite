@@ -1,0 +1,13 @@
+{
+        "name": "apm-lib-notnotmelon",
+        "version": "1.0.2",
+        "title": "Amator Phasma's Library",
+        "author": "AmatorPhasma",
+        "dependencies": [
+			"base",
+			"! Burner-Leech"
+        ],
+        "description": "A version of Amator Phasma's Library that works in Factorio 1.0",
+        "factorio_version": "1.0",
+        "homepage": ""
+}

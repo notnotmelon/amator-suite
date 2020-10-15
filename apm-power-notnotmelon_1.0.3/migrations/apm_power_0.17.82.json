@@ -1,0 +1,23 @@
+{
+  "fluid":
+  [
+    ["", ""]
+  ],
+  "item":
+  [
+    ["apm_wood_ash", "apm_generic_ash"],
+    ["apm_´coal_ash", "apm_generic_ash"]
+  ],
+  "entity":
+  [
+    ["", ""]
+  ],
+  "recipe":
+  [
+    ["", ""]
+  ],
+  "technology":
+  [
+    ["", ""]
+  ]
+}

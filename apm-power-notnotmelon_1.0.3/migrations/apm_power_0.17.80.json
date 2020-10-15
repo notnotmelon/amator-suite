@@ -1,0 +1,25 @@
+{
+  "fluid":
+  [
+    ["", ""]
+  ],
+  "item":
+  [
+    ["solid-mud", "apm_wet_mud"],
+    ["solid-saw", "apm_saw_blade_iron"],
+    ["apm_greenhouse_0", "apm_greenhouse_1"]
+  ],
+  "entity":
+  [
+    ["apm_greenhouse_0", "apm_greenhouse_1"]
+  ],
+  "recipe":
+  [
+    ["apm_resin", "apm_resin_1"],
+    ["apm_greenhouse_0", "apm_greenhouse_1"]
+  ],
+  "technology":
+  [
+    ["apm_greenhouse", "apm_greenhouse_1"]
+  ]
+}

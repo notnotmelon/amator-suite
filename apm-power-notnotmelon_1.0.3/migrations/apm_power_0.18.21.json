@@ -1,0 +1,22 @@
+{
+  "fluid":
+  [
+    ["", ""]
+  ],
+  "item":
+  [
+    ["", ""]
+  ],
+  "entity":
+  [
+    ["", ""]
+  ],
+  "recipe":
+  [
+    ["", ""]
+  ],
+  "technology":
+  [
+    ["apm_equipment_burner_generator", "apm_equipment_burner_generator-1"]
+  ]
+}

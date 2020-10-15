@@ -1,0 +1,23 @@
+{
+  "fluid":
+  [
+    ["", ""]
+  ],
+  "item":
+  [
+    ["", ""]
+  ],
+  "entity":
+  [
+    ["", ""]
+  ],
+  "recipe":
+  [
+    ["apm_fuel_rod_mox_cooled", "apm_fuel_rod_mox_cooling"],
+    ["apm_fuel_rod_mox_cooled_with_coolant", "apm_fuel_rod_mox_cooling_with_coolant"]
+  ],
+  "technology":
+  [
+    ["",""]
+  ]
+}

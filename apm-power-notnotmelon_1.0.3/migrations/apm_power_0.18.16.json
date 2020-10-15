@@ -1,0 +1,25 @@
+{
+  "fluid":
+  [
+    ["", ""]
+  ],
+  "item":
+  [
+    ["apm_stone_crucibel_raw", "apm_stone_crucible_raw"],
+    ["apm_stone_crucibel", "apm_stone_crucible"]
+  ],
+  "entity":
+  [
+    ["", ""]
+  ],
+  "recipe":
+  [
+    ["apm_raw_crucibel_0", "apm_raw_crucible_0"],
+    ["apm_raw_crucibel_1", "apm_raw_crucible_1"],
+    ["apm_stone_crucibel", "apm_stone_crucible"]
+  ],
+  "technology":
+  [
+    ["", ""]
+  ]
+}

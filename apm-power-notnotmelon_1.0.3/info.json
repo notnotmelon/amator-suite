@@ -1,0 +1,16 @@
+{
+        "name": "apm-power-notnotmelon",
+        "version": "1.0.3",
+        "title": "Amator Phasma's Coal & Steam",
+        "author": "AmatorPhasma",
+        "dependencies": [
+			"base",
+			"apm_resource_pack >= 0.19.02",
+			"apm-lib-notnotmelon >= 1.0.2",
+			"(?) aai-industry >= 0.3.22",
+			"!apm_lib"
+        ],
+        "description": "A version of Amator Phasma's Coal & Steam that works in Factorio 1.0",
+        "factorio_version": "1.0",
+        "homepage": ""
+}

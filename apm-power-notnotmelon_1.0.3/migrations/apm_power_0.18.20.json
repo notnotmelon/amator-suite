@@ -1,0 +1,23 @@
+{
+  "fluid":
+  [
+    ["", ""]
+  ],
+  "item":
+  [
+    ["", ""]
+  ],
+  "entity":
+  [
+    ["", ""]
+  ],
+  "recipe":
+  [
+    ["apm_stone_brick_raw", "apm_stone_brick_raw_with_crushed"]
+  ],
+  "technology":
+  [
+    ["apm_asphalt", "apm_asphalt-1"],
+    ["apm_treated_wood_planks", "apm_treated_wood_planks-1"]
+  ]
+}

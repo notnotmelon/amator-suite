@@ -1,0 +1,29 @@
+{
+  "fluid":
+  [
+    ["", ""]
+  ],
+  "item":
+  [
+    ["apm_nuclear_fuel_cell_used_032", "apm_nuclear_fuel_cell_used_hot_032"],
+    ["apm_nuclear_fuel_cell_used_037", "apm_nuclear_fuel_cell_used_hot_037"],
+    ["apm_nuclear_fuel_cell_used_042", "apm_nuclear_fuel_cell_used_hot_042"],
+    ["apm_nuclear_fuel_cell_used_047", "apm_nuclear_fuel_cell_used_hot_047"],
+    ["apm_fuel_cell_mox_used" , "apm_fuel_cell_mox_used_hot"],
+    ["apm_nuclear_breeder_uranium_inventory_enriched" ,"apm_nuclear_breeder_uranium_inventory_enriched_hot"],
+    ["apm_nuclear_fuel_cell_used_thorium", "apm_nuclear_fuel_cell_used_thorium_hot"],
+    ["apm_nuclear_breeder_thorium_inventory_enriched", "apm_nuclear_breeder_thorium_inventory_enriched_hot"]
+  ],
+  "entity":
+  [
+    ["", ""]
+  ],
+  "recipe":
+  [
+    ["", ""]
+  ],
+  "technology":
+  [
+    ["", ""]
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fluid":
+  [
+    ["", ""]
+  ],
+  "item":
+  [
+    ["apm_crusher_drumms", "apm_crusher_drums"],
+    ["apm_crusher_drumms_used", "apm_crusher_drums_used"]
+  ],
+  "entity":
+  [
+    ["", ""]
+  ],
+  "recipe":
+  [
+    ["apm_crusher_drumms", "apm_crusher_drums"],
+    ["apm_crusher_drumms_used_repair", "apm_crusher_drums_used_repair"]
+  ],
+  "technology":
+  [
+    ["", ""]
+  ]
+}

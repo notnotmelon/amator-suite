@@ -1,0 +1,16 @@
+{
+	"name": "apm-nuclear-notnotmelon",
+	"version": "1.0.1",
+	"title": "Amator Phasma's Nuclear",
+	"author": "AmatorPhasma",
+	"dependencies": [
+			"base >= 0.18.26",
+			"apm_resource_pack >= 0.19.02",
+			"apm-lib-notnotmelon",
+			"?apm-power-notnotmelon",
+			"!apm_lib"
+	],
+	"description": "A version of Amator Phasma's Nuclear that works in Factorio 1.0",
+	"factorio_version": "0.18",
+	"homepage": ""
+}
